@@ -25,10 +25,6 @@ A modern Notes Application built using React, Firebase and Tailwind CSS.
 - Framer Motion
 - React Router
 
-## 📸 Screenshots
-
-(Add screenshots here)
-
 ## 🚀 Installation
 
 ```bash
